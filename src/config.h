@@ -1,3 +1,0 @@
-#define V8_HOST_ARCH_64_BIT 1
-#define V8_TARGET_ARCH_32_BIT 0
-#define V8_HOST_ARCH_X64 1
